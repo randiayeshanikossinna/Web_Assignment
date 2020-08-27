@@ -1,0 +1,100 @@
+nav{
+	display: inline-flex;
+	font-size: 20px;
+}
+img{
+	float:right;
+}
+.topic1{
+	background-color: black;
+	margin-top: 50px;
+	height: 50px;
+}
+.topic2 h2{
+	text-align:center;
+}
+.topic2 h4{
+	text-align:center;
+}
+
+.topic3{
+background-color:black;
+display: inline-flex;
+}
+.topic3 .pic{
+background-color:black;
+float: left;
+
+}
+
+.topic3 .text {
+background-color:black;
+height: 300px;
+width: 1400px;
+float: left;
+}
+.topic3 .text p{
+background-color:black;
+float: left;
+font-size:20px;
+}
+.topic4{
+	text-align: center;
+
+}
+.topic4 .pic2{
+	margin-left: 20px;
+	float: left;
+}
+.topic5	{
+	background-color: black;
+	color: white;
+	height: 300px;
+}
+.topic5 .part1{
+	float: left;
+	margin-left: 20px;
+}
+.topic5 .part2{
+	float: left;
+	margin-left: 400px;
+}
+.topic5 .part3{
+
+	margin-left: 1400px;
+}
+.Part1{
+	text-align: center;
+}	
+.Part2{
+	margin-left: -10px;
+}
+.Part2 img{
+	margin-left: 200px;
+}
+.Part3{
+	background-color: black;
+	color: white;
+	margin-top: 200px;
+	text-align: center;
+	height: 80px;
+}
+.Part3 h3{
+	color: #662200;
+}
+.Part4{
+	margin-left: -10px;
+}
+.Part4 h3{
+  text-align: center;
+}
+.Part4 .pic img{
+	margin-left: 150px;
+}
+.contact{
+text-align: center;
+}
+.login{
+	height:500px ;
+	width:1900px;
+}
